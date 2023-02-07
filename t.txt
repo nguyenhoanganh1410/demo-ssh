@@ -1,1 +1,12 @@
-vsvd
+slash: lưu lại những thay đổi mà không cần commit, thường rất hữu dụng khi bạn muốn đổi sang 1 branch khác mà lại đang làm dở ở branch hiện tại.
+git slash save
+git slash pop
+git slash drop
+
+
+o unstage everything but keep your changes: git reset
+git restore --staged <file>
+
+discard everything
+git reset --hard
+
