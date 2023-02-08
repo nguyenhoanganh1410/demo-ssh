@@ -10,3 +10,5 @@ git restore --staged <file>
 discard everything
 git reset --hard
 
+okkk
+
